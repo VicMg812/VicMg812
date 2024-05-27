@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on OSS
 - 📫 How to reach me vimg5943@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Fulled by ramen
 
 <!---
